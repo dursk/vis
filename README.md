@@ -1,7 +1,9 @@
 Vis a vim-like text editor
 ==========================
 
-Vis aims to be a modern, legacy free, simple yet efficient vim-like editor.
+Vis aims to be almost as good as Emacs, while staying true to it's Vim roots.
+
+Obviously, this is impossible.
 
 It extends vim's modal editing with built-in support for multiple
 cursors/selections and combines it with [sam's](http://sam.cat-v.org/)
